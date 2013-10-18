@@ -1,4 +1,4 @@
-histogram-manipulator
+Histogram Manipulator
 =====================
 
-Manipulates histograms for images.
+Short swing based Java program which allows manipulatiion of an image's histogram. More operations may be added at a later date.
